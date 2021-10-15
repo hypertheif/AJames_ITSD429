@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJames_ITSD429", "AJames_ITSD429.csproj", "{BFC6FA4B-19E4-46FE-9DAE-A11D3664EDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC6FA4B-19E4-46FE-9DAE-A11D3664EDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC6FA4B-19E4-46FE-9DAE-A11D3664EDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC6FA4B-19E4-46FE-9DAE-A11D3664EDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC6FA4B-19E4-46FE-9DAE-A11D3664EDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89700922-FF7C-4180-846E-B12CE18A9879}
+	EndGlobalSection
+EndGlobal
